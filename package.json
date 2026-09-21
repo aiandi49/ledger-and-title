@@ -1,0 +1,12 @@
+{
+  "name": "ledger-and-title",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An independent educational guide to titling vehicles, real estate, and other major purchases in an LLC's name instead of a personal name.",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "build": "python3 generate.py"
+  },
+  "author": "Lamar Myers",
+  "license": "UNLICENSED"
+}
